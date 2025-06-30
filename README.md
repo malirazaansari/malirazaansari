@@ -1,4 +1,4 @@
-
+<!--
 # 💫 About Me:
 
 👋 Hi, I'm Ali Raza!
@@ -16,16 +16,17 @@ I specialize in full-stack web development with a strong focus on backend techno
 📌 Advanced Backend Development – Optimizing API performance, database architecture, and server-side logic.<br>
 
 🚀 How Can You Help?<br>
-If you're experienced in Data Science, AI, or MERN Stack optimizations, I'd love to connect, collaborate, and learn!<br>
+If you're experienced in Data Science, AI, or MERN Stack optimizations, I'd love to connect, collaborate, and learn!<br> 
 
 
 
-📫 Let's Connect
-## 🌐 Socials:
+📫 Let's Connect-->
+### 🌐 Socials Link's:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malirazaansari)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mali_razaansari)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/malirazaansari)
+<!--
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mali_razaansari)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MAliRazaAnsari)
 
 # 💻 Tech Stack:
@@ -46,9 +47,9 @@ If you're experienced in Data Science, AI, or MERN Stack optimizations, I'd love
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-
-# 📊 GitHub Stats:
+ -->
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=malirazaansari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=malirazaansari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=malirazaansari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=malirazaansari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=malirazaansari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
