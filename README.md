@@ -1,4 +1,3 @@
-<!--
 # 💫 About Me:
 
 👋 Hi, I'm Ali Raza!
@@ -48,8 +47,8 @@ If you're experienced in Data Science, AI, or MERN Stack optimizations, I'd love
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats:  -->
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=malirazaansari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=malirazaansari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=malirazaansari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+![](https://nirzak-streak-stats.vercel.app/?user=malirazaansari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=malirazaansari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
