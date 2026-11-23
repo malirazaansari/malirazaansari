@@ -1,99 +1,90 @@
-# About Me:
+<h1 align="center">Hi, I'm Ali Raza 👋</h1>
+<h3 align="center">Full-Stack Developer · MERN & Next.js · AI Agents & Automation (n8n, GoHighLevel, Voice AI)</h3>
 
-I'm currently working on Full Stack Developer<br>I'm looking to collaborates on open
-source MERN Projects<br>I'm looking for help in how should i start my career in
-Data Science<br>Ask me about MERN
-Stack Development
+<p align="center">
+  <a href="https://linkedin.com/in/malirazaansari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/malirazaansari"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://discord.gg/malirazaansari"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://instagram.com/mali_razaansari"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <!-- Add once your Upwork profile is live: -->
+  <!-- <a href="YOUR_UPWORK_URL"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a> -->
+</p>
 
-## 🌐 Socials:
+---
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/malirazaansari)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/malirazaasari)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mali_razaansari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malirazaansari)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/malirazaansari)
+## About me
 
-# 💻 Tech Stack:
+I build production web apps and AI automations: SaaS platforms, e-commerce stores, AI voice receptionists, ad dashboards and CRM integrations. I care about the parts that keep software running after launch: tests, webhook security, role-based access and clear handover docs.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat&logo=zod&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+- 🛠️ Full-stack developer at a software agency, building for clients in the US, UK and Middle East
+- 🚀 Building my own products: **TeleStock** (inventory & POS SaaS) and **Aura by Saira** (fashion e-commerce)
+- 🤖 Working on AI voice agents and automation with **Retell AI, n8n and GoHighLevel**
+- 🌱 Learning more about LLM agents, RAG and cloud infrastructure (AWS, Terraform)
+- 💬 Ask me about MERN, Next.js, n8n workflows, Stripe/payment integrations
+- 🤝 Open to freelance work and collaboration
 
-# 📊 GitHub Stats:
+---
 
-![](https://github-readme-stats.vercel.app/api?username=malirazaansari&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=malirazaansari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=malirazaansari&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## What I've built
 
-### ✍️ Random Dev Quote
+| Project | What it is | Stack |
+|---|---|---|
+| **TeleStock** | Multi-tenant inventory & POS SaaS for phone retailers: IMEI tracking, multi-branch stock, split payments, per-staff permissions. 167 tests. | Next.js · Express · MongoDB · TypeScript |
+| **Aura by Saira** | Fashion e-commerce store with a custom admin panel; Cash on Delivery, Stripe and Paddle checkout. | Next.js · Express · MongoDB · Stripe · Azure |
+| **AI Voice Receptionist** | Bilingual AI phone agent that books consultations, verifies payments and runs follow-up calls for a law firm. | Retell AI · n8n · GoHighLevel · Twilio |
+| **AI Marketing Command Center** | Meta + Google Ads dashboard: lead attribution, creative leaderboard, AI-written briefs and ad copy, approval-gated ad launches. | Next.js · Fastify · PostgreSQL · Claude/Gemini |
+| **Claims Integration (AWS CRM)** | Signed-webhook integration between a contractor CRM and an insurance-claims platform. 72 tests. | Node.js · Prisma · PostgreSQL · AWS |
+| **Headless CMS + Corporate Site** | CMS whose edits update the live Next.js site within seconds. | Next.js · Express · MongoDB · Cloudflare R2 |
+| **WhatsApp AI Sales Agent** | Takes orders on WhatsApp and creates them in Shopify, with product search. | n8n · LangChain · OpenAI · Pinecone |
+| **Safe Haul** | Weather-aware truck routing that ranks routes by forecast risk at arrival time. | React · Django REST · Leaflet |
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<sub>Most client work lives in private repositories. Happy to walk through any of it on a call.</sub>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- code done-->
+---
 
-<!--
-**malirazaansari/malirazaansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech stack
 
-Here are some ideas to get you started:
+**Languages & frameworks**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,nestjs,django,tailwind,redux&perline=11" alt="Languages and frameworks">
+</p>
+
+**Databases, cloud & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma,supabase,firebase,aws,azure,vercel,docker,githubactions&perline=12" alt="Databases, cloud and DevOps">
+</p>
+
+**AI, automation & integrations**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" alt="Pinecone">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/GoHighLevel-1A73E8?style=flat-square" alt="GoHighLevel">
+  <img src="https://img.shields.io/badge/Retell_AI-111111?style=flat-square" alt="Retell AI">
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe">
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
+  <img src="https://img.shields.io/badge/ethers.js-2535A0?style=flat-square" alt="ethers.js">
+</p>
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=malirazaansari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malirazaansari&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=malirazaansari&theme=tokyonight&hide_border=true" alt="GitHub streak">
+</p>
+
+---
+
+<p align="center"><i>Have a project in mind? Reach me on <a href="https://linkedin.com/in/malirazaansari">LinkedIn</a>, and I'll reply with how I'd approach it.</i></p>
